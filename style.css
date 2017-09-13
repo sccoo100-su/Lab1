@@ -8,7 +8,7 @@ html, body {
     line-height: 60px;
     padding: 20px;
     margin: 0px;
-    background-color: #76FF03 ;
+    background-color: #D44500;
 }
 
 h1 {
@@ -44,8 +44,4 @@ ul li a {
     background-color: #444;
     color: white;
     min-height: 500px;
-}
-
-p {
-    margin: 20px;
 }
