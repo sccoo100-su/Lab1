@@ -11,10 +11,14 @@ html, body {
     background-color: #D44500;
 }
 
+h1 {
+    display: inline;
+}
+
 ul {
     float: right;
     list-style-type: none;
-    margin: 
+    margin: 0px;
 }
 
 ul li {
@@ -25,4 +29,19 @@ ul li {
 ul li a {
     text-decoration: none;
     color: #000;
+}
+
+.content {
+    width: 70%;
+    float: left;
+    background-color: silver;
+    min-height: 500px;
+}
+
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: #444;
+    color: white;
+    min-height: 500px;
 }
